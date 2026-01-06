@@ -8,4 +8,4 @@
 
  // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment: 
+// Peer Review (Brandon Estrada) - Your project works well, I could not get it to break. The event listener and JavaScript all function properly and a new dad joke is shown everytime you click the button. I like the gif you chose for your project, and the color scheme to match it.
